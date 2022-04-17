@@ -1,0 +1,8 @@
+Rencana Konten ME
+
+- Javascript
+  * ES6
+  * Framework JS
+- PHP Framworks
+- Interview
+- Vlogs
